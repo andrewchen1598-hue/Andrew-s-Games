@@ -1,0 +1,58 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "category": "Action",
+    "url": "https://kdata1.com/2020/05/slope/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/250"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "category": "Action",
+    "url": "https://kdata1.com/2020/05/tunnel-rush/",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/250"
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.LOL",
+    "category": "Shooter",
+    "url": "https://1v1.lol/",
+    "thumbnail": "https://picsum.photos/seed/1v1/400/250"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "category": "Simulation",
+    "url": "https://bitlifeonline.io/",
+    "thumbnail": "https://picsum.photos/seed/bitlife/400/250"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "category": "Sports",
+    "url": "https://game316009.konggames.com/gamefile/316009/0/index.html",
+    "thumbnail": "https://picsum.photos/seed/retrobowl/400/250"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "category": "Idle",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/250"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "category": "Platformer",
+    "url": "https://geometrydash.io/",
+    "thumbnail": "https://picsum.photos/seed/geometry/400/250"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "category": "Arcade",
+    "url": "https://poki.com/en/g/crossy-road",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/250"
+  }
+]
